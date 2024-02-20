@@ -5,3 +5,6 @@ miArreglo.forEach(element => {
 });
 
 miArreglo.push('hola');
+
+
+const buscarElmentoLi = document.querySelector('button').addEventListener('click',()=> {alert('Hola!!!')});
