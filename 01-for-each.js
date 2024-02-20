@@ -4,4 +4,4 @@ miArreglo.forEach(element => {
     console.log(element);
 });
 
-
+miArreglo.push('hola');
